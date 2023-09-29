@@ -32,5 +32,6 @@ Step 5 :
 Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
 Tableau Dashboard
-https://public.tableau.com/shared/RSWW8WQH5?:display_count=n&:origin=viz_share_link
-![Screenshot 2023-09-27 213832](https://github.com/drajasekar/AirBnb-Analysis/assets/44079369/3fb89541-7341-433f-8d36-66aa7fc5e4b3)
+https://public.tableau.com/views/AirbnbWorld/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+![Screenshot 2023-09-29 184502](https://github.com/drajasekar/AirBnb-Analysis/assets/44079369/ccb36eed-d9c3-40ec-86b0-77f7a46eb1cd)
